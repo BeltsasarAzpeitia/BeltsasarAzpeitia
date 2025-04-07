@@ -53,9 +53,9 @@ Desarrollador apasionado por crear soluciones tecnológicas eficientes y elegant
   <img src="https://github-readme-stats.vercel.app/api?username=BeltsasarAzpeitia&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
 </div>
 
-<h2 align="center">🏆 Logros de GitHub</h2>
+<h2 align="center">🔥 Días de contribución</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeltsasarAzpeitia&theme=algolia&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BeltsasarAzpeitia&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <h2 align="center">🚀 Última actividad en GitHub</h2>
@@ -63,12 +63,12 @@ Desarrollador apasionado por crear soluciones tecnológicas eficientes y elegant
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeltsasarAzpeitia&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
 
-<h2 align="center">🔥 Días de contribución</h2>
+<h2 align="center">🏆 Logros de GitHub</h2>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BeltsasarAzpeitia&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BeltsasarAzpeitia&theme=algolia&margin-w=10&margin-h=10" alt="Trophies" />
 </div>
 
-## Contact us
+## 📬 Contacto
 
 <a href="https://www.linkedin.com/in/beltsasar-azpeitia-649a66236" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
