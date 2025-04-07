@@ -1,4 +1,7 @@
-# ¡Hola, soy Beltsasar Azpeitia! 👋
+# ¡Hola, soy Beltsasar Azpeitia! 👋 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BeltsasarAzpeitia&color=9D4EDD&style=flat-square" alt="Profile Views" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Full+Stack;Especialista+en+.NET+%26+SQL+Server;Creador+de+soluciones+web" alt="Typing SVG" />
@@ -49,13 +52,10 @@ Desarrollador apasionado por crear soluciones tecnológicas eficientes y elegant
 ---
 
 ## 📊 Estadísticas de GitHub
-<h2 align="center">🔥 Stats</h2>
+<h2 align="center">🔥 Stats | Días de contribución</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeltsasarAzpeitia&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-</div>
-
-<h2 align="center">🔥 Días de contribución</h2>
-<div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=BeltsasarAzpeitia&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
@@ -79,10 +79,6 @@ Desarrollador apasionado por crear soluciones tecnológicas eficientes y elegant
 
 <a href="mailto:belsagallardo@hotmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BeltsasarAzpeitia&color=9D4EDD&style=flat-square" alt="Profile Views" />
-</div>
 
 <div align="center">
 ⭐️ Inspirado por estos proyectos
