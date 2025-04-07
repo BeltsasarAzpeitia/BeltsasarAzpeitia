@@ -49,6 +49,7 @@ Desarrollador apasionado por crear soluciones tecnológicas eficientes y elegant
 ---
 
 ## 📊 Estadísticas de GitHub
+<h2 align="center">🔥 Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeltsasarAzpeitia&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
 </div>
